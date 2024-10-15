@@ -5,18 +5,18 @@
 
 ------------------------
 
-# Prusa MK1 3D printer
+# Original Prusa i3 MK3 3D printer
 
-The MakerSpace currently has a Prusa Mk1 3D printer.
+The MakerSpace currently has an Original Prusa i3 MK3 3D printer.
 
-You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk1](https://help.prusa3d.com/tag/mk1)
+You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk1](https://help.prusa3d.com/tag/mk3)
 
 Please download and read the Prusa introduction manual for safe and reliable printer operation 
- [https://www.prusa3d.com/downloads/manual/prusa3d_manual_175_en.pdf](https://www.prusa3d.com/downloads/manual/prusa3d_manual_175_en.pdf)
+ [https://www.prusa3d.com/downloads/manual/prusa3d_manual_mk3_en_3_04.pdf](https://www.prusa3d.com/downloads/manual/prusa3d_manual_mk3_en_3_04.pdf)
 
 *adapted from Prusa forum induction*
 
-The PRUSA i3 MK2(S) is a very nice machine, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
+The PRUSA i3 MK3 is a very nice machine, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
 
 That said, there is a learning curve and people make mistakes. If you are expecting this to be as easy as an inkjet or laser printer, it is not, but it can become that routine once you get over the learning curve.
 
@@ -25,7 +25,7 @@ This is a collection things most discussed on this forum as a reference for some
 These hints/step are not to be used instead of thinking. Think about the problem/steps and make sure they make sense to you. This collection is provided in good faith, but you are responsible for your machine. Electricity and heat can hurt you or the machine. Make sure you are comfortable with the steps and your knowledge before jumping in.
 
  Please watch the introduction video here 
- [https://youtu.be/JqH41K2vq0g?feature=shared](https://youtu.be/JqH41K2vq0g?feature=shared)
+ [https://www.youtube.com/watch?v=GE-lrRbU124](https://www.youtube.com/watch?v=GE-lrRbU124)
 
  ## Trouble Shooting
 

@@ -9,7 +9,7 @@
 
 The MakerSpace currently has an Original Prusa i3 MK3 3D printer.
 
-You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk1](https://help.prusa3d.com/tag/mk3)
+You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk3](https://help.prusa3d.com/tag/mk3)
 
 Please download and read the Prusa introduction manual for safe and reliable printer operation 
  [https://www.prusa3d.com/downloads/manual/prusa3d_manual_mk3_en_3_04.pdf](https://www.prusa3d.com/downloads/manual/prusa3d_manual_mk3_en_3_04.pdf)

@@ -11,7 +11,7 @@ The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer.
 
 These are fast, modern high quality, reliable machinesthat deliver great performance but are also easy to use and set up for beginners with a wealth of support and advice available.
 
-Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the Learning Platform Events [https://app.code.berlin/events/eventSeries?](https://app.code.berlin/events/eventSeries?)
+Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the [Introduction sessions in MakerSpace Google Dock](https://docs.google.com/spreadsheets/d/1lh0h8UYRIE3m7rFRqsqK_cCP7AEWUTUCyHSbxTzRfB4/edit?gid=0#gid=0)
 
 You can find material on the Prusa Website about the MK4 and the Core One [https://help.prusa3d.com/tag/mk4](https://help.prusa3d.com/tag/mk4)
 [https://help.prusa3d.com/product/core-one](https://help.prusa3d.com/product/core-one)

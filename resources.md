@@ -105,9 +105,6 @@ No fluff, no filler – just hands-on, project-based learning with live video ch
 
 - [YouTube: Collin's Lab: Schematics](https://www.youtube.com/watch?v=9cps7Q_IrX0)
 
-
-![CODE logo](Word_AppliedSciences_Black-sml.png)
-
 ## Linux
 
 ### General
@@ -123,3 +120,7 @@ No fluff, no filler – just hands-on, project-based learning with live video ch
 
 - [YouTube: edu puertas](https://www.youtube.com/@edupuertasfruns)
   - Description: Sharing Stop Motion Animation tips and tricks, making things and problem solving.
+
+
+
+![CODE logo](Word_AppliedSciences_Black-sml.png)

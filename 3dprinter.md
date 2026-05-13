@@ -11,13 +11,13 @@ The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer.
 
 These are fast, modern high quality, reliable machinesthat deliver great performance but are also easy to use and set up for beginners with a wealth of support and advice available.
 
-Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the [Introduction sessions in MakerSpace Google Dock](https://docs.google.com/spreadsheets/d/1lh0h8UYRIE3m7rFRqsqK_cCP7AEWUTUCyHSbxTzRfB4/edit?gid=0#gid=0)
+Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the [Introduction sessions in MakerSpace Google Docs](https://docs.google.com/spreadsheets/d/1lh0h8UYRIE3m7rFRqsqK_cCP7AEWUTUCyHSbxTzRfB4/edit?gid=0#gid=0)
 
-You can find material on the Prusa Website about the MK4 and the Core One [https://help.prusa3d.com/tag/mk4](https://help.prusa3d.com/tag/mk4)
-[https://help.prusa3d.com/product/core-one](https://help.prusa3d.com/product/core-one)
+You can find material on the Prusa Website about the MK4 and the Core One [Prusa MK4](https://help.prusa3d.com/tag/mk4)
+[Prusa Core One](https://help.prusa3d.com/product/core-one)
 
 Please download and read the Prusa introduction manual for safe and reliable printer operation 
- [https://help.prusa3d.com/downloads/mk3/handbook](https://help.prusa3d.com/downloads/mk4/handbook)
+ [Prusa MK4 Handbook](https://help.prusa3d.com/downloads/mk4/handbook)
 
  The MK4 and Core One printers are very similar sharing the same electronics, motors and printhead. Their speed and quality is comparable though the CORE One has a tempearature controlled printing chamber that allows heat control when printing more complex engineering filemanets such as ABS and Nylon.
 
@@ -96,12 +96,13 @@ There are 1000’s of free and pay tools out there for creating your models, sli
 ### Slicers 
 * Convert .stl files (models) into .gcode commands for your printer. These can make a HUGE difference in your print quality. Most have 100s of settings and thus a learning curve, but the knowledge of the control is worth it. 
 * Common ones are: [Slic3r (use Prusa one)](https://www.prusa3d.com/page/prusaslicer_424/), KISS, Cura, Simplify3D (S3D) [Guide to slic3r]( http://www.instructables.com/id/Guide-to-Slic3r/)
-* There are many Prusa Slicer introduction videos - here is a reasonable one [https://www.youtube.com/watch?v=_kIqMPNQNSw](https://www.youtube.com/watch?v=_kIqMPNQNSw)
+* There are many Prusa Slicer introduction videos - here is a reasonable one [YouTube: 
+PrusaSlicer Beginner Tutorial: Learn the basics](https://www.youtube.com/watch?v=_kIqMPNQNSw)
 
 ### CAD
  * [OpenSCAD](https://openscad.org/) is opensource, powerful but complex - good if you have a programming background (even just a bit). [TinkerCAD](https://www.tinkercad.com/) is a super easy introduction to making 3d Models for printing. There is also software such as [SolidWorks](https://www.solidworks.com/) and also [SketchUp](https://www.sketchup.com/en)
 * Autodesk Fusion360. Industrial level 3D modelling tool with free ascess for educational use [Fusion360 download](https://www.autodesk.com/products/fusion-360/choose-usage)
-  * this intro to Fusion360 from formlabs is a good quick overview [https://formlabs.com/eu/blog/fusion-360-tutorial-basics-and-tips-for-3d-printing/](https://formlabs.com/eu/blog/fusion-360-tutorial-basics-and-tips-for-3d-printing/)
+  * this intro to Fusion360 from formlabs is a good quick overview [formlabs: Fusion 360 Tutorial: Basics and Tips for 3D Printing](https://formlabs.com/eu/blog/fusion-360-tutorial-basics-and-tips-for-3d-printing/)
    
 ### Sculpting type modeling
 * [Blender](https://www.blender.org/) and similar.

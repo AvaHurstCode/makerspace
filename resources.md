@@ -93,12 +93,10 @@
 
 - [YouTube: Rachel De Barros](https://www.youtube.com/@RachelDeBarrosLive)
   - Description: Master Arduino Programming For Any Project!
-
 Go from absolute beginner to building and coding your own Arduino projects from scratch using the most popular electronics components, even if you’ve never coded or built a circuit before.
-
 Ditch those boring tutorials! I’m Rachel De Barros, and I’m here to help you master Arduino, electronics and robotics to bring your tech ideas to life!
-
 No fluff, no filler – just hands-on, project-based learning with live video chat support and accountability that will have you building home automation, weather, motorized prop, robotics, wireless IoT-enabled projects and more in no time!
+
 ### Tools
 
 - [YouTube: Collin's Lab: Electronics Tools](https://www.youtube.com/watch?v=Kv7Y8nAOoFE)

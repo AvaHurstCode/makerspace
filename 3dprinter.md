@@ -91,7 +91,13 @@ Heated bed struggles to keep up with hotter bed temperatures.
 
 ## Software
 
-There are 1000’s of free and pay tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but here are some common ones so you can research them yourself.
+There are 1000’s of free and pay tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but here are some common ones so you can research them yourself. Prusa 
+
+### Octobrint
+If you are on campus, you can print and monitor your print via octoprint.
+
+[Octoprint Prusa MK4S](http://192.168.15.105)
+[Octoprint Prusa Core One](http://192.168.10.156)
 
 ### Slicers 
 * Convert .stl files (models) into .gcode commands for your printer. These can make a HUGE difference in your print quality. Most have 100s of settings and thus a learning curve, but the knowledge of the control is worth it. 

@@ -5,7 +5,7 @@
 
 ------------------------
 
-# Prusa MK4s and Core One 3D printers
+# Prusa MK4s and Core One + 3D printers
 
 The MakerSpace currently has a Prusa MK4S and a Prusa CORE One + 3D Printer.
 
@@ -23,7 +23,7 @@ Please download and read the Prusa introduction manual for safe and reliable pri
 
 *adapted from Prusa forum induction*
 
-The PRUSA MK4S and Core one + are very nice machines, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
+The PRUSA MK4S and Core one + are very nice machines, and you will find that they are reliable machines with great print quality. There are thousands of users who use these machines as a workhorse, and you can too.
 
 That said, there is a learning curve and people make mistakes. If you are expecting this to be as easy as an inkjet or laser printer, it is not, but it can become that routine once you get over the learning curve.
 
@@ -81,7 +81,6 @@ Common ones are:
 2. Bambu Studio
 3. Orca Slicer
 4. Cura
-
 
 ### CAD
  * [OpenSCAD](https://openscad.org/) is opensource, powerful but complex - good if you have a programming background (even just a bit). [TinkerCAD](https://www.tinkercad.com/) is a super easy introduction to making 3d Models for printing. There is also software such as [SolidWorks](https://www.solidworks.com/) and also [SketchUp](https://www.sketchup.com/en)

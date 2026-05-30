@@ -42,6 +42,7 @@
 # Materials and resources
 * Isopropyl alcohol wipes
 * Filament for small scale testing
+* Materials for small scale laser cutter testing
 
 # Microelectronics
 * Ytian Test Clamp Wire Hook Test Clip for Logic Analyzer Wire Connector Pack of 10

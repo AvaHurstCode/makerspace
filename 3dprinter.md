@@ -9,9 +9,9 @@
 
 The MakerSpace currently has a Prusa MK4S and a Prusa CORE One + 3D Printer.
 
-These are fast, modern high quality, reliable machinesthat deliver great performance but are also easy to use and set up for beginners with a wealth of support and advice available.
+These are fast, modern, high-quality, reliable machines that deliver great performance but are also easy to use and set up for beginners, with a wealth of support and advice available.
 
-Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the Learning Platform Events [https://app.code.berlin/events/eventSeries?](https://app.code.berlin/events/eventSeries?)
+Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the [Introduction sessions in MakerSpace Google Docs](https://docs.google.com/spreadsheets/d/1lh0h8UYRIE3m7rFRqsqK_cCP7AEWUTUCyHSbxTzRfB4/edit?gid=0#gid=0)
 
 You can find material on the Prusa Website about the MK4S and the Core One [https://help.prusa3d.com/tag/mk4](https://help.prusa3d.com/tag/mk4)
 [https://help.prusa3d.com/product/core-one](https://help.prusa3d.com/product/core-one)
@@ -45,7 +45,7 @@ These hints/step are not to be used instead of thinking. Think about the problem
 3. Determine if the issue is persistent or intermittent. Try to localize the conditions that cause it. This is the fastest way to get to an answer.
 4. Start simple before getting advanced. Low-Poly and lower detail models are much easier to print and will be easier to slice too.
 
-Print comes loose from the bed during print, causing either spaghetti or a plastic tumor to grow on your extruder.
+Print comes loose from the bed during printing, causing either spaghetti or a plastic tumour to grow on your extruder.
 **Common causes:**
 1. Print bed is not clean - use an alcohol wipe to clean it and retry. Even oil from peoples hands can make adhesion less reliable.
 2. Model has small footprint on the bed - Add BRIM in your slicer if the model has a flat bottom, and/or a RAFT if it has a curved bottom.
@@ -72,7 +72,13 @@ Print suddenly shifts in X or Y and keeps printing.
 
 ## Software
 
-There are 1000’s of free and pay tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but here are some common ones so you can research them yourself.
+There are 1000’s of free and paid tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but here are some common ones so you can research them yourself. Prusa 
+
+### OctoPrint
+If you are on campus, you can print and monitor your print via OctoPrint.
+
+[Octoprint Prusa MK4S](http://192.168.15.105)
+[Octoprint Prusa Core One](http://192.168.10.156)
 
 ### Slicers 
 Convert .stl files (models) into .gcode commands for your printer. These can make a HUGE difference in your print quality. Most built-in presets are more than good enough for reliable prints, but for advanced control, most slicers have 100s of extra settings and thus a learning curve, but the knowledge is worth it.

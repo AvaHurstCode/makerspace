@@ -50,6 +50,9 @@ The makerspace has a variety of equipment suitable for making
 * laser cutting
 * 3D additive printing
 
+## [External Resources](resources.md)
+A collection of various youtube channels and resources that may be useful to learn about specific topics
+
 ## Sponsorship
 
 The CODE makerspace has been generously supported by funds from our partners at [Deutsche Telekom](https://www.telekom.com/)

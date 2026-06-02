@@ -19,7 +19,7 @@ You can find material on the Prusa Website about the MK4S and the Core One [http
 Please download and read the Prusa introduction manual for safe and reliable printer operation
 [https://help.prusa3d.com/downloads/mk3/handbook](https://help.prusa3d.com/downloads/mk4/handbook)
 
-The MK4 and Core One + printers are very similar sharing the same electronics, motors and printhead. Their speed and quality is comparable though the CORE One + has a tempearature controlled printing chamber that allows heat control when printing more complex engineering filemanets such as ABS and Nylon.
+The MK4S and Core One + printers are very similar sharing the same electronics, motors and printhead. Their speed and quality is comparable though the CORE One + has a tempearature controlled printing chamber that allows heat control when printing more complex engineering filemanets such as ABS and Nylon.
 
 _adapted from Prusa forum induction_
 
@@ -36,7 +36,6 @@ These hints/step are not to be used instead of thinking. Think about the problem
 
 ![overview of Prusa 3d Printer](prusa3dprinter.png)
 
-![overview of Prusa 3d Printer](prusa3dprinter.png) 
 ## Trouble Shooting
 
 ### General advice.
@@ -77,8 +76,8 @@ There are 1000’s of free and paid tools out there for creating your models, sl
 ### OctoPrint
 If you are on campus, you can print and monitor your print via OctoPrint.
 
-[Octoprint Prusa MK4S](http://192.168.15.105)
-[Octoprint Prusa Core One](http://192.168.10.156)
+- [Octoprint Prusa MK4S](http://192.168.15.105)
+- [Octoprint Prusa Core One +](http://192.168.10.156)
 
 ### Slicers 
 Convert .stl files (models) into .gcode commands for your printer. These can make a HUGE difference in your print quality. Most built-in presets are more than good enough for reliable prints, but for advanced control, most slicers have 100s of extra settings and thus a learning curve, but the knowledge is worth it.
